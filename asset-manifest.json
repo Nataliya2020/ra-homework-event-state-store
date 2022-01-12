@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ra-homework-event-state-store/static/css/main.81693d2a.css",
+    "main.js": "/ra-homework-event-state-store/static/js/main.1eb0699e.js",
+    "static/js/787.e7ed4f74.chunk.js": "/ra-homework-event-state-store/static/js/787.e7ed4f74.chunk.js",
+    "index.html": "/ra-homework-event-state-store/index.html",
+    "main.81693d2a.css.map": "/ra-homework-event-state-store/static/css/main.81693d2a.css.map",
+    "main.1eb0699e.js.map": "/ra-homework-event-state-store/static/js/main.1eb0699e.js.map",
+    "787.e7ed4f74.chunk.js.map": "/ra-homework-event-state-store/static/js/787.e7ed4f74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81693d2a.css",
+    "static/js/main.1eb0699e.js"
+  ]
+}
